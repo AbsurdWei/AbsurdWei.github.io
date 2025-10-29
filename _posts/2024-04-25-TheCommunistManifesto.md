@@ -8,7 +8,7 @@ tags:
 
 A spectre is haunting Europe -- the spectre of Communism. All the Powers of old Europe have entered into a holy
 alliance to exorcise this spectre: Pope and Czar, Metternich and Guizot, French Radicals and German
-police-spies.  
+police-spies.
   
 Where is the party in opposition that has not been decried as Communistic by its opponents in power? Where the
 Opposition that has not hurled back the branding reproach of Communism, against the more advanced opposition
@@ -23,6 +23,6 @@ aims, their tendencies, and meet this nursery tale of the Spectre of Communism w
 itself.
 
 To this end, Communists of various nationalities have assembled in London, and sketched the following Manifesto,
-to be published in the English, French, German, Italian, Flemish and Danish languages.  
+to be published in the English, French, German, Italian, Flemish and Danish languages.
 
 <p style="color: red; text-align: center; font-size: 28px; font-weight: bold;">WORKING MEN OF ALL COUNTRIES, UNITE!<p>

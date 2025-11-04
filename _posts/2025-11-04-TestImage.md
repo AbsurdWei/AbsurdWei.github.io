@@ -4,8 +4,6 @@ author:     HoozS
 modify_date:    2025-11-04
 tags:
     - Test
-image:
-    /imgs
 ---
 
 ## Some image here

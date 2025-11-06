@@ -8,13 +8,17 @@ tags:
 
 ## Some image here
 
+### local images
+
 ![pso-1 scope](/imgs/20190122_170835351_iOS.gif)
 
 ![stadiametric rangefinder](/imgs/20190122_170840195_iOS.gif)
 
+### github picbed
+
 ![华法林](https://raw.githubusercontent.com/HoozS/pic/main/pic/华法林.gif)
 
-### webp test
+### animated webp test
 
 ![webp](/imgs/ww2sinaimgcnworiginal40be9ba7gw1evcuoxm7hej20go0gotc4jpg.jpg.webp)
 

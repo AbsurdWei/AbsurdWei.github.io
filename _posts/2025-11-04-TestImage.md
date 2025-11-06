@@ -18,6 +18,10 @@ tags:
 
 ![华法林](https://raw.githubusercontent.com/HoozS/pic/main/pic/华法林.gif)
 
+![giQ5-8sxyZ18T1kS7s-5u.gif.medium](https://raw.githubusercontent.com/HoozS/pic/main/pic/giQ5-8sxyZ18T1kS7s-5u.gif.medium.gif)
+
+![重岳语音](https://raw.githubusercontent.com/HoozS/pic/main/pic/重岳语音.gif)
+
 ### animated webp test
 
 ![webp](/imgs/ww2sinaimgcnworiginal40be9ba7gw1evcuoxm7hej20go0gotc4jpg.jpg.webp)

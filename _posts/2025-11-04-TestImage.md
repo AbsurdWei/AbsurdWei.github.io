@@ -22,6 +22,10 @@ tags:
 
 ![重岳语音](https://raw.githubusercontent.com/HoozS/pic/main/pic/重岳语音.gif)
 
+![20190731_042946642_iOS](https://raw.githubusercontent.com/HoozS/pic/main/pic/20190731_042946642_iOS.jpg)
+
+![华法林-笑1](https://raw.githubusercontent.com/HoozS/pic/main/pic/华法林-笑1.jpg)
+
 ### animated webp test
 
 ![webp](/imgs/ww2sinaimgcnworiginal40be9ba7gw1evcuoxm7hej20go0gotc4jpg.jpg.webp)
